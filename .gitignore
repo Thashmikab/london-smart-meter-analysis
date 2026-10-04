@@ -1,0 +1,13 @@
+# Data: downloaded by the notebook, never committed
+data/
+*.csv
+*.zip
+*.parquet
+ 
+# Python and notebooks
+__pycache__/
+.ipynb_checkpoints/
+ 
+# Secrets
+kaggle.json
+.env
